@@ -12,6 +12,7 @@
       }, 1000);
     });
   }
+  
   //   const result = squareAsync(10).then(console.log);
   //   console.log(result);
 }
