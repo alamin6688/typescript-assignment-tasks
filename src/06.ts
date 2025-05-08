@@ -1,5 +1,4 @@
 {
-  // Problem 06
   interface Product {
     name: string;
     price: number;

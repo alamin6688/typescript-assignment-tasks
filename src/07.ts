@@ -1,6 +1,4 @@
 {
-  // Problem 07
-
   enum Day {
     Monday,
     Tuesday,

@@ -1,5 +1,4 @@
 {
-  // Problem 04
   class Vehicle {
     private make: string;
     private year: number;
